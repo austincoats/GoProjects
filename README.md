@@ -3,5 +3,4 @@ This repo is a compliation of things that I create while learning Go that have n
 
 Include so far:
 
-ExecutiveDecisionMaker
-  Uses randomization to expertly suggest your next important business decision.
+ExecutiveDecisionMaker - Uses randomization to expertly suggest your next important business decision.
